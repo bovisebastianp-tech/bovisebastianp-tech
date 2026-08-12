@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:ff0033&height=220&section=header&text=Welcome%20to%20my%20Crypt&fontSize=42&fontColor=ff1a1a&animation=fadeIn&fontAlignY=38&desc=Enter%20if%20you%20dare...&descAlignY=58&descColor=ff6666" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:ff0033&height=220&section=header&text=Terumii%20Kaan%20no%20Kuraiya&fontSize=38&fontColor=ff1a1a&animation=twinkling&fontAlignY=38&desc=A%20Shut-In%20Vampire's%20Domain&descAlignY=58&descColor=ff6666" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8140-1b3d17c58b6b.gif" width="500">
 
 <a href="https://github.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF0033&center=true&vCenter=true&width=650&lines=Night+walks+alone...;Coding+after+midnight+%F0%9F%A6%87;Blood-red+commits+only;Welcome+to+my+lair" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF0033&center=true&vCenter=true&width=700&lines=420+years+of+isolation...+and+counting;Terumin+Cabinet+Rank%3A+Perfect+Wisdom;I+just+want+to+stay+in+bed+and+read;Coding+from+my+coffin+%F0%9F%A6%87;Welcome+to+the+Mulnite+Kingdom" alt="Typing SVG" />
 </a>
+
+<br>
+
+![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff0033&style=for-the-badge&label=SOULS+WHO+ENTERED)
+<img src="https://img.shields.io/badge/Currently_Watching-Hikikomari%20Kyuuketsuki%20no%20Monmon-8B0000?style=for-the-badge&logo=crunchyroll&logoColor=ff6666&labelColor=1a0000"/>
 
 </div>
 
@@ -18,10 +25,12 @@
 
 ```yaml
 class: Vampire.Developer
+title: Fourth-Generation Terumin
 awake: 23:00 - 06:00
-weakness: sunlight, unreviewed PRs
-strength: dark mode everything
-motto: "Code never dies, it just gets refactored."
+weakness: sunlight, unreviewed PRs, going outside
+strength: dark mode everything, sealed knowledge
+motto: "I don't wanna go to work... I mean, war."
+favorite_anime: "The Vexations of a Shut-In Vampire Princess"
 ```
 
 </td>
@@ -31,9 +40,19 @@ motto: "Code never dies, it just gets refactored."
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git&theme=dark" />
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=3&title=Commits,Stars,Repositories" />
+
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+![Bat Flying](https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4a3f-bb09-4b39abbf5b5e.gif)
+
+</div>
 
 <div align="center">
 
@@ -47,6 +66,18 @@ motto: "Code never dies, it just gets refactored."
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&bg_color=0d0000&color=ff3333&line=ff1a1a&point=ffffff&hide_border=true" width="90%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌙 Contribution Snake (My Nightly Hunts)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<sub>*(Aktifkan animasi ini otomatis lewat GitHub Actions "snk" — link panduan ada di catatan bawah)*</sub>
 
 </div>
 
