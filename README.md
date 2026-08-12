@@ -41,7 +41,7 @@
   <!-- ANIME GIFS -->
   <img src="https://media.tenor.com/L2X7A583JUS8/giphy.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
   &nbsp;
-  <img src="https://media.tenor.com/OWARI_NO_SERAPH_KRUL_TEPES.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://media.tenor.com/G566p8vK3oAAAAAC/owari-no-seraph-krul-tepes.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
 </div>
 
 <br>
@@ -63,17 +63,11 @@
 ## 📉 Dark Energy Metrics
 
 <div align="center">
+
+  <!-- STATS DENGAN SERVER NATIVE RESMI & CAMO CACHE GITHUB -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=dark&title_color=e60023&icon_color=e60023&text_color=ffffff&bg_color=0d1117&hide_border=true" width="49%" />
   
-  <!-- STATS STABIL (EMBED LANGSUNG DARI GITHUB) -->
-  <h3>Overall Stats</h3>
-  <img src="https://github.com/bovisebastianp-tech/bovisebastianp-tech/graphs/contributors?type=commits" width="100%" />
-
-  <br><br>
-
-  <h3>Top Languages</h3>
-  <p align="center">
-    <img src="https://github.com/bovisebastianp-tech/bovisebastianp-tech/graphs/commit-activity?type=lines" width="100%" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&theme=dark&title_color=e60023&icon_color=e60023&text_color=ffffff&bg_color=0d1117&hide_border=true" width="49%" />
 
 </div>
 
