@@ -1,84 +1,69 @@
 <div align="center">
 
-  <!-- BANNER GIF ANIME VAMPIRE -->
-  <img src="https://media.tenor.com/a4E874SIsgAAAAAC/anime-vampire.gif" alt="Vampire Anime" width="100%" height="280px" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:ff0033&height=220&section=header&text=Welcome%20to%20my%20Crypt&fontSize=42&fontColor=ff1a1a&animation=fadeIn&fontAlignY=38&desc=Enter%20if%20you%20dare...&descAlignY=58&descColor=ff6666" width="100%"/>
 
-  <br><br>
-
-  <!-- TYPING TEXT ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E60023&center=true&vCenter=true&width=500&height=50&lines=WELCOME+TO+GANDESBLOOD'S+LAIR;RULED+BY+THE+BLOOD+MOON;PROGRAMMING+IN+THE+SHADOWS" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <i>"Awake in the digital midnight, turning red code into immortal systems."</i>
-  </p>
-
-  <!-- BADGES STATS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/VAMPIRE_LEVEL-ARCHDUKE-800020?style=for-the-badge&logo=opsgenie&logoColor=white" />
-    <img src="https://img.shields.io/badge/STATUS-CODING_IN_THE_DARK-D32F2F?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+<a href="https://github.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF0033&center=true&vCenter=true&width=650&lines=Night+walks+alone...;Coding+after+midnight+%F0%9F%A6%87;Blood-red+commits+only;Welcome+to+my+lair" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<br>
 
-## 🩸 The Blood Grimoire (Profile)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="30" height="30" /> <b>Domain:</b> Information Systems <br>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="30" height="30" /> <b>Mastery:</b> Web Development & Network Systems <br>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30" height="30" /> <b>Current Rituals:</b> Scalable Web Applications <br>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSC-Dark.svg" width="30" height="30" /> <b>Fuel:</b> Coffee & Midnight Blood Moon
-</p>
+### 🩸 About Me
 
-<br>
+```yaml
+class: Vampire.Developer
+awake: 23:00 - 06:00
+weakness: sunlight, unreviewed PRs
+strength: dark mode everything
+motto: "Code never dies, it just gets refactored."
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🦇 Tech Coven
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <!-- ANIME GIFS -->
-  <img src="https://media.tenor.com/L2X7A583JUS8/giphy.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
-  &nbsp;
-  <img src="https://media.tenor.com/G566p8vK3oAAAAAC/owari-no-seraph-krul-tepes.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
+
+![Neon Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+### 🕯️ GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=red&hide_border=true&bg_color=0d0000&title_color=ff1a1a&icon_color=ff3333&text_color=ff8080" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d0000&stroke=ff1a1a&ring=ff1a1a&fire=ff3333&currStreakLabel=ff8080" height="165"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&bg_color=0d0000&color=ff3333&line=ff1a1a&point=ffffff&hide_border=true" width="90%"/>
+
 </div>
 
 <br>
 
----
-
-## ⚔️ Sanguine Arsenal (Tech Stack)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,js,cisco,docker,html,css,git,vscode,linux,cpp&theme=dark" />
-  </a>
-</p>
-
-<br>
-
----
-
-## 📉 Dark Energy Metrics
-
 <div align="center">
-  <!-- STATS BADGES TANPA SERVER VERCEL (100% BEBAS BROKEN IMAGE) -->
-  <img src="https://img.shields.io/github/followers/bovisebastianp-tech?style=for-the-badge&logo=github&color=E60023&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/bovisebastianp-tech?style=for-the-badge&logo=github&color=E60023&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/repo-size/bovisebastianp-tech/bovisebastianp-tech?style=for-the-badge&logo=github&color=E60023&labelColor=0D1117" />
-</div>
 
-<br>
+### ⚰️ Connect With Me
 
----
+<a href="#"><img src="https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=ff6666"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=ff6666"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-8B0000?style=for-the-badge&logo=x&logoColor=ff6666"/></a>
 
-<br>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+![Bat Divider](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0033,50:8b0000,100:1a0000&height=120&section=footer"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bovisebastianp-tech&style=for-the-badge&label=LAIR+VISITORS&color=E60023&labelColor=0D1117" />
 </div>
