@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER GIF ANIME VAMPIRE -->
-  <img src="https://media.giphy.com/media/Lq1U75pMjdia4/giphy.gif" alt="Vampire Anime" width="100%" height="280px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://c.tenor.com/39J-L_X8aRIAAAAC/anime-vampire.gif" alt="Vampire Anime" width="100%" height="280px" style="object-fit: cover; border-radius: 10px;" />
 
   <br><br>
 
@@ -14,7 +14,7 @@
     <i>"Awake in the digital midnight, turning red code into immortal systems."</i>
   </p>
 
-  <!-- STATUS BADGES -->
+  <!-- BADGES STATS -->
   <p align="center">
     <img src="https://img.shields.io/badge/VAMPIRE_LEVEL-ARCHDUKE-800020?style=for-the-badge&logo=opsgenie&logoColor=white" />
     <img src="https://img.shields.io/badge/STATUS-CODING_IN_THE_DARK-D32F2F?style=for-the-badge&logo=github&logoColor=white" />
@@ -26,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
-## 🩸 The Blood Grimoire (Profile & Stats)
+## 🩸 The Blood Grimoire (Profile)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="30" height="30" /> <b>Domain:</b> Information Systems <br>
@@ -38,10 +38,10 @@
 <br>
 
 <div align="center">
-  <!-- GIF ANIME KE-2: SIDE ANIMATION -->
-  <img src="https://media.giphy.com/media/Q6Wv2UX08bT0M4B519/giphy.gif" width="45%" height="180px" style="object-fit: cover; border-radius: 8px;" />
+  <!-- ANIME GIFS -->
+  <img src="https://media.tenor.com/a4E874SIsgAAAAAC/anime-vampire.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
   &nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FhZXB5OXEycXRxcHRycGJueWFxNXE2bnBhZ3RtZDVpMmUzbjR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2X7A583JUS8/giphy.gif" width="45%" height="180px" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://media.tenor.com/G566p8vK3oAAAAAC/owari-no-seraph-krul-tepes.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
 </div>
 
 <br>
@@ -63,9 +63,9 @@
 ## 📉 Dark Energy Metrics
 
 <div align="center">
-  <!-- STATS CARD BARU & RADAR WREAK -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=blood&hide_border=true&title_color=E60023&icon_color=E60023&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&theme=blood&hide_border=true&title_color=E60023&text_color=ffffff" width="49%" />
+  <!-- STATS STABIL TANPA PRONE ERROR -->
+  <img src="https://github-readme-stats.authord.com/api?username=bovisebastianp-tech&show_icons=true&theme=blood&hide_border=true&title_color=E60023&icon_color=E60023&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-stats.authord.com/api/top-langs/?username=bovisebastianp-tech&layout=compact&theme=blood&hide_border=true&title_color=E60023&text_color=ffffff" width="49%" />
 </div>
 
 <br><br>
