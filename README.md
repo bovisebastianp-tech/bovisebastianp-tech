@@ -1,91 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,35:8b0000,70:ff2952,100:ff8fa3&height=220&section=header&text=Gandesblood%20Tian&fontSize=42&fontColor=fff0f0&animation=twinkling&fontAlignY=38&desc=small%20%E2%80%A2%20cursed%20%E2%80%A2%20crimson&descAlignY=58&descColor=ffd6d6" width="100%"/>
-
-<a href="https://github.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=FF3355&center=true&vCenter=true&width=650&lines=welcome+to+my+coffin+%F0%9F%A6%87;small%2C+quiet%2C+and+still+dangerous;432+years+old%2C+still+coding;runs+on+blood+tea+and+dark+mode;don't+test+my+patience" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a0000,50:5c0011,100:c1121f&height=200&section=header&text=GANDESBLOOD%20TIAN&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%7C%20Night%20Owl%20%7C%20432%20yrs%20old&descAlignY=65&descColor=ff8a8a&animation=fadeIn"/>
 
 <br>
 
-![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff3366&style=for-the-badge&label=VISITORS+UWU&labelColor=2b0000)
-<img src="https://img.shields.io/badge/mood-kalem%20tapi%20berbahaya-ff5c77?style=for-the-badge&labelColor=2b0000"/>
-<img src="https://img.shields.io/badge/fandom-Vexations%20of%20a%20Shut--In%20Vampire%20Princess-ff5c77?style=for-the-badge&labelColor=2b0000"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=E63946&center=true&vCenter=true&width=600&lines=Building+quietly+in+the+dark;432+years+old%2C+still+shipping+code;Runs+on+coffee+and+dark+mode;Don't+mistake+calm+for+weak" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/status-online%20after%20dark-c1121f?style=flat-square&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/focus-backend%20%26%20systems-c1121f?style=flat-square&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/mood-calm%20but%20dangerous-c1121f?style=flat-square&labelColor=1a0000"/>
 
 </div>
 
 <br>
 
-<p align="center">🦇 ⋆｡‧˚ʚ ♡ ɞ˚‧｡⋆ 🦇</p>
+## ⌁ About
 
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### 🩸 About Me
-
-```yaml
-name: Gandesblood Tian
-species: Vampire (allegedly powerful, actually just sleepy)
-personality: kalem di luar, berbahaya kalau dipancing
-likes: [ruangan gelap, teh manis, dark mode, kerjaan beres]
-dislikes: [matahari, deadline, PR yang numpuk]
-motto: "jangan cari masalah sama aku."
+```
+Vampire by design, developer by trade.
+Sleeps through daylight, ships code at midnight.
+Prefers silence, dark themes, and clean commits.
 ```
 
-</td>
-<td width="45%" valign="top">
+<br>
 
-### 🦇 Tech Coven
+## ⌁ Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git&theme=dark" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=2b0000&title_color=ff8fa3&icon_color=ff5c77&text_color=ffd6d6" height="150"/>
-
-</td>
-</tr>
-</table>
+<p align="left">
+<img src="https://img.shields.io/badge/-JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=c1121f"/>
+<img src="https://img.shields.io/badge/-TypeScript-1a0000?style=for-the-badge&logo=typescript&logoColor=c1121f"/>
+<img src="https://img.shields.io/badge/-React-1a0000?style=for-the-badge&logo=react&logoColor=c1121f"/>
+<img src="https://img.shields.io/badge/-Node.js-1a0000?style=for-the-badge&logo=node.js&logoColor=c1121f"/>
+<img src="https://img.shields.io/badge/-Python-1a0000?style=for-the-badge&logo=python&logoColor=c1121f"/>
+<img src="https://img.shields.io/badge/-Git-1a0000?style=for-the-badge&logo=git&logoColor=c1121f"/>
+</p>
 
 <br>
 
-<p align="center">🩸 ⋆｡‧˚ʚ ♡ ɞ˚‧｡⋆ 🩸</p>
-
-<br>
+## ⌁ Stats
 
 <div align="center">
 
-### ✧ nightly hunts (contribution snake) ✧
+<img src="https://github-readme-stats.vercel.app/api?username=Gandeblood_Tian&show_icons=true&theme=dark&hide_border=true&bg_color=1a0000&title_color=e63946&icon_color=c1121f&text_color=e0b3b3" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=1a0000&title_color=e63946&text_color=e0b3b3" width="42%"/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<br>
 
-<sub>*(perlu setup GitHub Actions dulu supaya ini jadi grafik kontribusimu sendiri — tanya aku kalau mau dibuatkan)*</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=1a0000&stroke=c1121f&ring=c1121f&fire=e63946&currStreakLabel=e0b3b3&sideLabels=e0b3b3&dates=7a4a4a" width="90%"/>
 
 </div>
 
 <br>
 
-<p align="center">🦇 ⋆｡‧˚ʚ ♡ ɞ˚‧｡⋆ 🦇</p>
+## ⌁ Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a0000&color=e63946&line=c1121f&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
 
 <br>
 
-<div align="center">
+## ⌁ Connect
 
-### ⚰️ Find Me Here
+<p align="left">
+<a href="#"><img src="https://img.shields.io/badge/Discord-1a0000?style=for-the-badge&logo=discord&logoColor=c1121f"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-1a0000?style=for-the-badge&logo=instagram&logoColor=c1121f"/></a>
+<a href="#"><img src="https://img.shields.io/badge/X-1a0000?style=for-the-badge&logo=x&logoColor=c1121f"/></a>
+</p>
 
-<a href="#"><img src="https://img.shields.io/badge/Discord-ff3366?style=for-the-badge&logo=discord&logoColor=fff0f0&labelColor=2b0000"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-ff3366?style=for-the-badge&logo=instagram&logoColor=fff0f0&labelColor=2b0000"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-ff3366?style=for-the-badge&logo=x&logoColor=fff0f0&labelColor=2b0000"/></a>
+<br>
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:c1121f,50:5c0011,100:1a0000&height=120&section=footer"/>
 
-<i>~ jangan sampai kegigit ~</i>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fa3,35:ff2952,70:8b0000,100:2b0000&height=110&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=c1121f&style=flat-square&label=views"/>
 
 </div>
