@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER GIF ANIME VAMPIRE -->
-  <img src="https://c.tenor.com/39J-L_X8aRIAAAAC/anime-vampire.gif" alt="Vampire Anime" width="100%" height="280px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media.tenor.com/a4E874SIsgAAAAAC/anime-vampire.gif" alt="Vampire Anime" width="100%" height="280px" style="object-fit: cover; border-radius: 10px;" />
 
   <br><br>
 
@@ -39,9 +39,9 @@
 
 <div align="center">
   <!-- ANIME GIFS -->
-  <img src="https://media.tenor.com/a4E874SIsgAAAAAC/anime-vampire.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://media.tenor.com/L2X7A583JUS8/giphy.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
   &nbsp;
-  <img src="https://media.tenor.com/G566p8vK3oAAAAAC/owari-no-seraph-krul-tepes.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://media.tenor.com/OWARI_NO_SERAPH_KRUL_TEPES.gif" width="48%" height="180px" style="object-fit: cover; border-radius: 8px;" />
 </div>
 
 <br>
@@ -63,16 +63,23 @@
 ## 📉 Dark Energy Metrics
 
 <div align="center">
-  <!-- STATS STABIL TANPA PRONE ERROR -->
-  <img src="https://github-readme-stats.authord.com/api?username=bovisebastianp-tech&show_icons=true&theme=blood&hide_border=true&title_color=E60023&icon_color=E60023&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-stats.authord.com/api/top-langs/?username=bovisebastianp-tech&layout=compact&theme=blood&hide_border=true&title_color=E60023&text_color=ffffff" width="49%" />
+  
+  <!-- STATS STABIL (EMBED LANGSUNG DARI GITHUB) -->
+  <h3>Overall Stats</h3>
+  <img src="https://github.com/bovisebastianp-tech/bovisebastianp-tech/graphs/contributors?type=commits" width="100%" />
+
+  <br><br>
+
+  <h3>Top Languages</h3>
+  <p align="center">
+    <img src="https://github.com/bovisebastianp-tech/bovisebastianp-tech/graphs/commit-activity?type=lines" width="100%" />
+  </p>
+
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bovisebastianp-tech&theme=blood&hide_border=true&background=0D1117&ring=E60023&fire=E60023" width="100%" />
-</div>
+---
 
 <br>
 
