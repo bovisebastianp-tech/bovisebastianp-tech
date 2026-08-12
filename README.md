@@ -63,12 +63,10 @@
 ## 📉 Dark Energy Metrics
 
 <div align="center">
-
-  <!-- STATS DENGAN SERVER NATIVE RESMI & CAMO CACHE GITHUB -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=dark&title_color=e60023&icon_color=e60023&text_color=ffffff&bg_color=0d1117&hide_border=true" width="49%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&theme=dark&title_color=e60023&icon_color=e60023&text_color=ffffff&bg_color=0d1117&hide_border=true" width="49%" />
-
+  <!-- STATS BADGES TANPA SERVER VERCEL (100% BEBAS BROKEN IMAGE) -->
+  <img src="https://img.shields.io/github/followers/bovisebastianp-tech?style=for-the-badge&logo=github&color=E60023&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/bovisebastianp-tech?style=for-the-badge&logo=github&color=E60023&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/repo-size/bovisebastianp-tech/bovisebastianp-tech?style=for-the-badge&logo=github&color=E60023&labelColor=0D1117" />
 </div>
 
 <br>
