@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,35:8b0000,70:ff2952,100:ff8fa3&height=220&section=header&text=Gandesblood%20Tian&fontSize=42&fontColor=fff0f0&animation=twinkling&fontAlignY=38&desc=cute%20%E2%9C%A7%20cursed%20%E2%9C%A7%20crimson&descAlignY=58&descColor=ffd6d6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,35:8b0000,70:ff2952,100:ff8fa3&height=220&section=header&text=Gandesblood%20Tian&fontSize=42&fontColor=fff0f0&animation=twinkling&fontAlignY=38&desc=small%20%E2%80%A2%20cursed%20%E2%80%A2%20crimson&descAlignY=58&descColor=ffd6d6" width="100%"/>
 
 <a href="https://github.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=FF3355&center=true&vCenter=true&width=650&lines=hehe...+welcome+to+my+coffin+%F0%9F%A6%87%F0%9F%92%95;small+and+scary+at+the+same+time;432+years+young+~;powered+by+blood+tea+%26+coffee;don't+mind+the+fangs%2C+I'm+friendly!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=FF3355&center=true&vCenter=true&width=650&lines=welcome+to+my+coffin+%F0%9F%A6%87;small%2C+quiet%2C+and+still+dangerous;432+years+old%2C+still+coding;runs+on+blood+tea+and+dark+mode;don't+test+my+patience" alt="Typing SVG" />
 </a>
 
 <br>
 
 ![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff3366&style=for-the-badge&label=VISITORS+UWU&labelColor=2b0000)
-<img src="https://img.shields.io/badge/mood-imut%20tapi%20menakutkan-ff5c77?style=for-the-badge&labelColor=2b0000"/>
+<img src="https://img.shields.io/badge/mood-kalem%20tapi%20berbahaya-ff5c77?style=for-the-badge&labelColor=2b0000"/>
 <img src="https://img.shields.io/badge/fandom-Vexations%20of%20a%20Shut--In%20Vampire%20Princess-ff5c77?style=for-the-badge&labelColor=2b0000"/>
 
 </div>
@@ -29,10 +29,10 @@
 ```yaml
 name: Gandesblood Tian
 species: Vampire (allegedly powerful, actually just sleepy)
-personality: imut ✧ tapi kalau marah serem
-likes: [selimut, teh manis, dark mode, elu-elu yang baik]
+personality: kalem di luar, berbahaya kalau dipancing
+likes: [ruangan gelap, teh manis, dark mode, kerjaan beres]
 dislikes: [matahari, deadline, PR yang numpuk]
-motto: "jangan macem-macem sama aku... nanti aku nangis duluan"
+motto: "jangan cari masalah sama aku."
 ```
 
 </td>
@@ -82,7 +82,7 @@ motto: "jangan macem-macem sama aku... nanti aku nangis duluan"
 
 <br><br>
 
-<i>~ jangan takut, gigitannya cuma sedikit ~</i>
+<i>~ jangan sampai kegigit ~</i>
 
 <br><br>
 
