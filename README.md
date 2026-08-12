@@ -1,69 +1,85 @@
 <div align="center">
-  
-  <!-- Banner Gif Utama (Vampir Anime yang Sedang Mengetik) -->
-  <img src="https://media.giphy.com/media/26hiryHlM2w4I4XQk/giphy.gif" alt="Vampire Anime Coding" width="100%" height="250">
+
+  <!-- BANNER GIF ANIME VAMPIRE -->
+  <img src="https://media.giphy.com/media/Lq1U75pMjdia4/giphy.gif" alt="Vampire Anime" width="100%" height="280px" style="object-fit: cover; border-radius: 10px;" />
 
   <br><br>
 
-  <!-- Title Bergerak (Halaman Selamat Datang) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=500&height=50&lines=WELCOME+TO+THE+DIGITAL+CRYPT;GANDESBLOOD+TIAN'S+LAIR;EMBRACING+THE+CODE+ETERNAL" alt="Typing SVG" />
+  <!-- TYPING TEXT ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=E60023&center=true&vCenter=true&width=500&height=50&lines=WELCOME+TO+GANDESBLOOD'S+LAIR;RULED+BY+THE+BLOOD+MOON;PROGRAMMING+IN+THE+SHADOWS" alt="Typing SVG" />
+  </a>
 
-  <br>
+  <p align="center">
+    <i>"Awake in the digital midnight, turning red code into immortal systems."</i>
+  </p>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=dark&quote=I+code+best+under+the+moonlight.+The+night+is+young%2C+and+my+stack+is+deep.&author=The+Sanguine+Developer&theme=tokyonight" width="350">
+  <!-- STATUS BADGES -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/VAMPIRE_LEVEL-ARCHDUKE-800020?style=for-the-badge&logo=opsgenie&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-CODING_IN_THE_DARK-D32F2F?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+
 </div>
 
 <br>
-<hr style="border:2px solid #FF1A1A">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
-## 🩸 Chronicles of the Night (Profile)
+## 🩸 The Blood Grimoire (Profile & Stats)
 
-<br>
 <p align="left">
-  <img src="https://img.shields.io/badge/%F0%9F%93%93%20Status-Information--Systems-8F0000?style=for-the-badge&labelColor=16161D">
-  <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Combat--Focus-Web--&--Network--Systems-990000?style=for-the-badge&labelColor=16161D">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AA%20Dark--Rituals-Scalable--Web--Apps-C60000?style=for-the-badge&labelColor=16161D">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20Fun--Fact-Fueled--by--Coffee--&--Digital--Dreams-FF1A1A?style=for-the-badge&labelColor=16161D">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="30" height="30" /> <b>Domain:</b> Information Systems <br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="30" height="30" /> <b>Mastery:</b> Web Development & Network Systems <br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="30" height="30" /> <b>Current Rituals:</b> Scalable Web Applications <br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSC-Dark.svg" width="30" height="30" /> <b>Fuel:</b> Coffee & Midnight Blood Moon
 </p>
-<br>
-
----
 
 <br>
-<h3 align="center">⚔️ The Crimson Arsenal (Tech Stack) ⚔️</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,cisco,docker,html,css,git,vscode,linux&theme=dark" />
-</p>
-<br>
-
----
-
-<br>
-<h3 align="center">📉 Sanguine Siphoning (GitHub Activity) 📈</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=tokyonight&text_color=FF0000&title_color=FFFFFF&icon_color=FF1A1A" alt="Sanguine Stats" align="left" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&theme=tokyonight&text_color=FF0000&title_color=FFFFFF&icon_color=FF1A1A" alt="Top Languages" align="right" width="48%" />
+  <!-- GIF ANIME KE-2: SIDE ANIMATION -->
+  <img src="https://media.giphy.com/media/Q6Wv2UX08bT0M4B519/giphy.gif" width="45%" height="180px" style="object-fit: cover; border-radius: 8px;" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FhZXB5OXEycXRxcHRycGJueWFxNXE2bnBhZ3RtZDVpMmUzbjR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2X7A583JUS8/giphy.gif" width="45%" height="180px" style="object-fit: cover; border-radius: 8px;" />
 </div>
 
-<br clear="both">
 <br>
 
 ---
 
-<br>
-<h3 align="center">🕷️ Activity Crypt 🕷️</h3>
+## ⚔️ Sanguine Arsenal (Tech Stack)
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bovisebastianp-tech&bg_color=16161D&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true" width="100%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,js,cisco,docker,html,css,git,vscode,linux,cpp&theme=dark" />
+  </a>
 </p>
+
 <br>
 
 ---
+
+## 📉 Dark Energy Metrics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bovisebastianp-tech&style=for-the-badge&label=CRYPT+VISITORS&color=FF1A1A&labelColor=16161D">
+  <!-- STATS CARD BARU & RADAR WREAK -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=blood&hide_border=true&title_color=E60023&icon_color=E60023&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&theme=blood&hide_border=true&title_color=E60023&text_color=ffffff" width="49%" />
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bovisebastianp-tech&theme=blood&hide_border=true&background=0D1117&ring=E60023&fire=E60023" width="100%" />
+</div>
+
 <br>
-<p align="center"><sub>Powered by Sanguine Energy & Digital Night</sub></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bovisebastianp-tech&style=for-the-badge&label=LAIR+VISITORS&color=E60023&labelColor=0D1117" />
+</div>
