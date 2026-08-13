@@ -14,7 +14,7 @@
 
 <br>
 
-![profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=c1121f&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a0000)
+![profile views](https://komarev.com/ghpvc/?username=bovisebastianp-tech&color=c1121f&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a0000)
 
 </div>
 
@@ -73,11 +73,11 @@ strength: patience, precision, dark mode everything
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=dark&hide_border=true&bg_color=1a0000&title_color=e63946&icon_color=c1121f&text_color=e0b3b3" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=1a0000&title_color=e63946&text_color=e0b3b3" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&hide_border=true&bg_color=1a0000&title_color=e63946&text_color=e0b3b3" width="42%"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=1a0000&stroke=c1121f&ring=c1121f&fire=e63946&currStreakLabel=e0b3b3&sideLabels=e0b3b3&dates=7a4a4a" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bovisebastianp-tech&hide_border=true&background=1a0000&stroke=c1121f&ring=c1121f&fire=e63946&currStreakLabel=e0b3b3&sideLabels=e0b3b3&dates=7a4a4a" width="90%"/>
 
 </div>
 
@@ -86,7 +86,7 @@ strength: patience, precision, dark mode everything
 ## ⌁ Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bovisebastianp-tech&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
 <br>
@@ -94,7 +94,7 @@ strength: patience, precision, dark mode everything
 ## ⌁ Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a0000&color=e63946&line=c1121f&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bovisebastianp-tech&bg_color=1a0000&color=e63946&line=c1121f&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 <br>
@@ -103,8 +103,8 @@ strength: patience, precision, dark mode everything
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/profile-3d-contrib/master/profile-night-rainbow.svg"/>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/profile-3d-contrib/master/profile-green-animate.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img src="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/main/profile-3d-contrib/profile-green-animate.svg" width="95%"/>
 </picture>
 <br>
 <sub><i>grafik kontribusi 3D animasi — butuh setup GitHub Actions sekali, bilang aja kalau mau dibuatkan file workflow-nya</i></sub>
