@@ -99,11 +99,15 @@ strength: patience, precision, dark mode everything
 
 <br>
 
-## ⌁ Nightly Hunts (Contribution Snake)
+## ⌁ Contribution Skyline (3D)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-<sub><i>butuh setup GitHub Actions sekali — bilang aja kalau mau dibuatkan file workflow-nya</i></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/profile-3d-contrib/master/profile-night-rainbow.svg"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/profile-3d-contrib/master/profile-green-animate.svg" width="95%"/>
+</picture>
+<br>
+<sub><i>grafik kontribusi 3D animasi — butuh setup GitHub Actions sekali, bilang aja kalau mau dibuatkan file workflow-nya</i></sub>
 </div>
 
 <br>
