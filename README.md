@@ -89,9 +89,9 @@ strength: patience, precision, dark mode everything
 
 <table>
 <tr>
-<td align="center" width="33%">🌙<br><b>Coding at Night</b><br><sub>most commits after 11PM</sub></td>
+<td align="center" width="33%">🌙<br><b>Coding kalo malem</b><br><sub>most commits after 11PM</sub></td>
 <td align="center" width="33%">🩸<br><b>Backend Focused</b><br><sub>APIs, systems, databases</sub></td>
-<td align="center" width="33%">☕<br><b>Fueled by Caffeine</b><br><sub>and dark mode</sub></td>
+<td align="center" width="33%">☕<br><b>Mau asal di bayar</b><br><sub>and dark mode</sub></td>
 </tr>
 </table>
 
