@@ -119,7 +119,7 @@ strength: patience, precision, dark mode everything
   <img src="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/main/profile-3d-contrib/profile-green-animate.svg" width="95%"/>
 </picture>
 <br>
-<sub><i>grafik kontribusi 3D animasi — butuh setup GitHub Actions sekali, bilang aja kalau mau dibuatkan file workflow-nya</i></sub>
+<sub><i>Bukan Grafik saham loh yaa😹</i></sub>
 </div>
 
 <br>
