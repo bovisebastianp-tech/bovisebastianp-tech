@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=E63946&center=true&vCenter=true&width=600&lines=Building+quietly+in+the+dark;432+years+old%2C+still+shipping+code;Runs+on+coffee+and+dark+mode;Don't+mistake+calm+for+weak" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=FFFFFF&background=1A0000&center=true&vCenter=true&width=600&lines=Building+quietly+in+the+dark;432+years+old%2C+still+shipping+code;Runs+on+coffee+and+dark+mode;Don't+mistake+calm+for+weak" />
 
 <br><br>
 
@@ -43,7 +43,7 @@ Prefers silence, dark themes, and clean commits.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gandeblood_Tian&show_icons=true&theme=dark&hide_border=true&bg_color=1a0000&title_color=e63946&icon_color=c1121f&text_color=e0b3b3" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=1a0000&title_color=e63946&icon_color=c1121f&text_color=e0b3b3" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=1a0000&title_color=e63946&text_color=e0b3b3" width="42%"/>
 
 <br>
