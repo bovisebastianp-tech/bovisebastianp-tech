@@ -72,8 +72,8 @@ strength: patience, precision, dark mode everything
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=dark&hide_border=true&bg_color=1a0000&title_color=e63946&icon_color=c1121f&text_color=e0b3b3" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&hide_border=true&bg_color=1a0000&title_color=e63946&text_color=e0b3b3" width="42%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bovisebastianp-tech&show_icons=true&theme=dark&hide_border=true&bg_color=1a0000&title_color=e63946&icon_color=c1121f&text_color=e0b3b3" width="48%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&hide_border=true&bg_color=1a0000&title_color=e63946&text_color=e0b3b3" width="42%"/>
 
 <br>
 
