@@ -83,10 +83,22 @@ strength: patience, precision, dark mode everything
 
 <br>
 
-## ⌁ Trophies
+## ⌁ Currently
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bovisebastianp-tech&theme=dracula&no-frame=true&row=1&column=6&margin-w=8"/>
+
+<table>
+<tr>
+<td align="center" width="33%">🌙<br><b>Coding at Night</b><br><sub>most commits after 11PM</sub></td>
+<td align="center" width="33%">🩸<br><b>Backend Focused</b><br><sub>APIs, systems, databases</sub></td>
+<td align="center" width="33%">☕<br><b>Fueled by Caffeine</b><br><sub>and dark mode</sub></td>
+</tr>
+</table>
+
+<br>
+
+<sub><i>lencana pencapaian asli dari GitHub bisa dilihat di <a href="https://github.com/bovisebastianp-tech?tab=achievements">halaman Achievements profil kamu</a></i></sub>
+
 </div>
 
 <br>
