@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0000,50:8b0000,100:c1121f&height=230&section=header&text=GANDESBLOOD%20TIAN&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20Night%20Owl%20%C2%B7%20432%20yrs%20old&descAlignY=62&descColor=ffb3b3&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0000,50:8b0000,100:c1121f&height=230&section=header&text=GANDESBLOOD%20TIAN&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Backend%20Dev%20%C2%B7%20Begadang%20Terus%20%C2%B7%20432%20taun&descAlignY=62&descColor=ffb3b3&animation=twinkling"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=1A0000&center=true&vCenter=true&width=680&lines=Building+quietly+in+the+dark+%F0%9F%A6%87;432+years+old%2C+still+shipping+code;Runs+on+coffee+and+dark+mode;Don't+mistake+calm+for+weak" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&background=1A0000&center=true&vCenter=true&width=680&lines=ngoding+diem-diem+di+kegelapan+%F0%9F%A6%87;432+taun+dan+masih+push+code;modal+kopi+sama+dark+mode+doang;jangan+ganggu+kalo+lagi+fokus" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/status-online%20after%20dark-c1121f?style=for-the-badge&labelColor=1a0000"/>
-<img src="https://img.shields.io/badge/focus-backend%20%26%20systems-c1121f?style=for-the-badge&labelColor=1a0000"/>
-<img src="https://img.shields.io/badge/mood-calm%20but%20dangerous-c1121f?style=for-the-badge&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/status-online%20pas%20malem-c1121f?style=for-the-badge&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/fokus-backend%20%26%20system-c1121f?style=for-the-badge&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/mood-santai%20tapi%20jangan%20macem2-c1121f?style=for-the-badge&labelColor=1a0000"/>
 
 <br>
 
-![profile views](https://komarev.com/ghpvc/?username=bovisebastianp-tech&color=c1121f&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a0000)
+![profile views](https://komarev.com/ghpvc/?username=bovisebastianp-tech&color=c1121f&style=for-the-badge&label=YANG+MAMPIR&labelColor=1a0000)
 
 </div>
 
@@ -22,10 +22,10 @@
 
 ```
      ⠀⠀⠀⠀⢀⣠⣴⣶⣶⣦⣄⡀⠀⠀⠀⠀
-     ⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀      "I don't do mornings.
-     ⠀⢠⣿⣿⡿⠋⠁⠈⠙⢿⣿⣿⣆⠀⠀        I don't do small talk.
-     ⢀⣿⣿⡇⠀⢀⣴⣦⡀⠀⢸⣿⣿⡄⠀        I just ship clean code
-     ⢸⣿⣿⡇⠀⢿⣿⡿⠀⠀⢸⣿⣿⡇⠀        and disappear before sunrise."
+     ⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀      "gue gak ada urusan sama pagi.
+     ⠀⢠⣿⣿⡿⠋⠁⠈⠙⢿⣿⣿⣆⠀⠀        basa-basi juga skip aja.
+     ⢀⣿⣿⡇⠀⢀⣴⣦⡀⠀⢸⣿⣿⡄⠀        yang penting code beres,
+     ⢸⣿⣿⡇⠀⢿⣿⡿⠀⠀⢸⣿⣿⡇⠀        abis itu ngilang sebelum subuh."
      ⠘⣿⣿⣧⠀⠀⠀⠀⠀⣼⣿⣿⠃⠀
      ⠀⠹⣿⣿⣿⣦⣤⣤⣶⣿⣿⣿⠏⠀⠀
      ⠀⠀⠈⠛⢿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀
@@ -33,7 +33,7 @@
 
 <br>
 
-## ⌁ About
+## ⌁ Tentang Gue
 
 <table>
 <tr>
@@ -41,11 +41,11 @@
 
 ```yaml
 role: Backend Developer
-age: 432 (still counting)
-active_hours: 23:00 — 06:00
-current_focus: systems, APIs, clean architecture
-weakness: sunlight, unreviewed pull requests
-strength: patience, precision, dark mode everything
+umur: 432 (masih nambah terus)
+jam_aktif: 23.00 — 06.00
+lagi_ngapain: bikin API, urus system, rapihin code
+kelemahan: matahari, PR numpuk gak di-review
+kelebihan: sabar, teliti, dark mode di segala aplikasi
 ```
 
 </td>
@@ -54,21 +54,21 @@ strength: patience, precision, dark mode everything
 
 <br>
 
-## ⌁ Tech Stack
+## ⌁ Skill Set 🦇
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,docker,git&theme=dark"/>
 
 <br><br>
 
-`JavaScript`   ▓▓▓▓▓▓▓▓▓░░ 85%
-`TypeScript`   ▓▓▓▓▓▓▓░░░░ 70%
-`Python`       ▓▓▓▓▓▓▓▓░░░ 78%
-`Node.js`      ▓▓▓▓▓▓▓▓▓░░ 82%
-`SQL`          ▓▓▓▓▓▓▓░░░░ 68%
+`JavaScript`   ▓▓▓▓▓▓▓▓▓░░ 85% 🔥
+`TypeScript`   ▓▓▓▓▓▓▓░░░░ 70% ✨
+`Python`       ▓▓▓▓▓▓▓▓░░░ 78% 🐍
+`Node.js`      ▓▓▓▓▓▓▓▓▓░░ 82% ⚡
+`SQL`          ▓▓▓▓▓▓▓░░░░ 68% 🗃️
 
 <br>
 
-## ⌁ Stats
+## ⌁ Stats 📊
 
 <div align="center">
 
@@ -83,27 +83,27 @@ strength: patience, precision, dark mode everything
 
 <br>
 
-## ⌁ Currently
+## ⌁ Lagi Sibuk Apa 👀
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">🌙<br><b>Coding kalo malem</b><br><sub>most commits after 11PM</sub></td>
-<td align="center" width="33%">🩸<br><b>Backend Focused</b><br><sub>APIs, systems, databases</sub></td>
-<td align="center" width="33%">☕<br><b>Mau asal di bayar</b><br><sub>and dark mode</sub></td>
+<td align="center" width="33%">🌙<br><b>Begadang Ngoding</b><br><sub>commit paling rame lewat jam 11 malem</sub></td>
+<td align="center" width="33%">🩸<br><b>Anak Backend</b><br><sub>API, system, database, gitu-gitu deh</sub></td>
+<td align="center" width="33%">☕<br><b>Modal Kopi</b><br><sub>sama dark mode aja udah cukup</sub></td>
 </tr>
 </table>
 
 <br>
 
-<sub><i>lencana pencapaian asli dari GitHub bisa dilihat di <a href="https://github.com/bovisebastianp-tech?tab=achievements">halaman Achievements profil kamu</a></i></sub>
+<sub><i>lencana achievement asli GitHub cek aja di <a href="https://github.com/bovisebastianp-tech?tab=achievements">halaman Achievements</a> ya 😉</i></sub>
 
 </div>
 
 <br>
 
-## ⌁ Activity Graph
+## ⌁ Activity Graph 📈
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bovisebastianp-tech&bg_color=1a0000&color=e63946&line=c1121f&point=ffffff&area=true&hide_border=true" width="95%"/>
@@ -111,7 +111,7 @@ strength: patience, precision, dark mode everything
 
 <br>
 
-## ⌁ Contribution Skyline (3D)
+## ⌁ Contribution Skyline (3D) 🏙️
 
 <div align="center">
 <picture>
@@ -119,12 +119,12 @@ strength: patience, precision, dark mode everything
   <img src="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/main/profile-3d-contrib/profile-green-animate.svg" width="95%"/>
 </picture>
 <br>
-<sub><i>Bukan Grafik saham loh yaa😹</i></sub>
+<sub><i>bukan grafik saham loh yaa 😹</i></sub>
 </div>
 
 <br>
 
-## ⌁ Connect
+## ⌁ Contact 📬
 
 <p align="left">
 <a href="#"><img src="https://img.shields.io/badge/Discord-1a0000?style=for-the-badge&logo=discord&logoColor=c1121f"/></a>
