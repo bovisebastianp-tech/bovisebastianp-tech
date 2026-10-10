@@ -43,8 +43,8 @@
 role: Backend Developer
 umur: 432 (masih nambah terus)
 jam_aktif: 23.00 — 06.00
-lagi_ngapain: bikin API, urus system, rapihin code
-kelemahan: matahari, PR numpuk gak di-review
+lagi_ngapain: nyari duit, urus system, rapihin code
+kelemahan: matahari, kerjaan numpuk gak di-review
 kelebihan: sabar, teliti, dark mode di segala aplikasi
 ```
 
@@ -90,7 +90,7 @@ kelebihan: sabar, teliti, dark mode di segala aplikasi
 <table>
 <tr>
 <td align="center" width="33%">🌙<br><b>Begadang Ngoding</b><br><sub>commit paling rame lewat jam 11 malem</sub></td>
-<td align="center" width="33%">🩸<br><b>Anak Backend</b><br><sub>API, system, database, gitu-gitu deh</sub></td>
+<td align="center" width="33%">🩸<br><b>Anak Backend</b><br><sub>system, database, gitu-gitu deh</sub></td>
 <td align="center" width="33%">☕<br><b>Modal Kopi</b><br><sub>sama dark mode aja udah cukup</sub></td>
 </tr>
 </table>
