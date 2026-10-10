@@ -33,7 +33,7 @@
 
 ```yaml
 role: Frontend Developer
-umur: 432 (masih nambah terus)
+umur: 20 (masih nambah terus)
 jam_aktif: 23.00 - 06.00
 lagi_ngapain: bikin UI yang rapi, responsif, dan enak dipandang
 suka: dark mode, animasi halus, komponen yang reusable
