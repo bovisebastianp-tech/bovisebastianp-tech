@@ -2,6 +2,10 @@
      Profil GitHub · Gandesblood Tian
      Tema: biru laut + malam · Frontend Developer
      Taruh file ini di repo: bovisebastianp-tech/bovisebastianp-tech
+
+     BORDER: setiap bagian dibingkai garis gradasi biru laut.
+     Mau ganti warna garis? Ubah kode warna di URL "capsule-render"
+     (0a1628 = malam, 0b4f7a = laut dalam, 00b4d8 = cyan)
      ═══════════════════════════════════════════════ -->
 
 <div align="center">
@@ -25,7 +29,8 @@
 
 </div>
 
-<br/>
+<!-- ═════════ BORDER: TENTANG ═════════ -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:00b4d8,100:0a1628" alt="" />
 
 ## 🌊 Tentang Gue
 
@@ -39,7 +44,12 @@ kelemahan  : matahari, pixel yang geser 1px
 kelebihan  : sabar, teliti, mata tajam soal detail
 ```
 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:0b4f7a,100:0a1628" alt="" />
+
 <br/>
+
+<!-- ═════════ BORDER: TECH STACK ═════════ -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:00b4d8,100:0a1628" alt="" />
 
 ## 🐚 Tech Stack
 
@@ -55,7 +65,12 @@ kelebihan  : sabar, teliti, mata tajam soal detail
 | **CSS** | Layout, warna, responsif, dan animasi |
 | **JavaScript** | Bikin halaman jadi interaktif |
 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:0b4f7a,100:0a1628" alt="" />
+
 <br/>
+
+<!-- ═════════ BORDER: PROYEK ═════════ -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:00b4d8,100:0a1628" alt="" />
 
 ## 🚀 Proyek
 
@@ -67,22 +82,32 @@ kelebihan  : sabar, teliti, mata tajam soal detail
 
 </div>
 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:0b4f7a,100:0a1628" alt="" />
+
 <br/>
+
+<!-- ═════════ BORDER: STATISTIK ═════════ -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:00b4d8,100:0a1628" alt="" />
 
 ## 📊 Statistik
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&hide_border=true&bg_color=0a1628&title_color=48cae4&icon_color=00b4d8&text_color=caf0f8&ring_color=0096c7" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&hide_border=true&bg_color=0a1628&title_color=48cae4&text_color=caf0f8" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&hide_border=false&border_color=0b4f7a&bg_color=0a1628&title_color=48cae4&icon_color=00b4d8&text_color=caf0f8&ring_color=0096c7" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&hide_border=false&border_color=0b4f7a&bg_color=0a1628&title_color=48cae4&text_color=caf0f8" alt="top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=bovisebastianp-tech&hide_border=true&background=0a1628&stroke=0b4f7a&ring=48cae4&fire=00b4d8&currStreakLabel=90e0ef&sideLabels=90e0ef&dates=5a8fb0&currStreakNum=caf0f8&sideNums=caf0f8" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=bovisebastianp-tech&hide_border=false&border=0b4f7a&background=0a1628&stroke=0b4f7a&ring=48cae4&fire=00b4d8&currStreakLabel=90e0ef&sideLabels=90e0ef&dates=5a8fb0&currStreakNum=caf0f8&sideNums=caf0f8" alt="streak" />
 
 </div>
 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:0b4f7a,100:0a1628" alt="" />
+
 <br/>
+
+<!-- ═════════ BORDER: GRAFIK AKTIVITAS ═════════ -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:00b4d8,100:0a1628" alt="" />
 
 ## 🌌 Grafik Aktivitas
 
@@ -96,7 +121,12 @@ kelebihan  : sabar, teliti, mata tajam soal detail
 
 </div>
 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:0b4f7a,100:0a1628" alt="" />
+
 <br/>
+
+<!-- ═════════ BORDER: KONTAK ═════════ -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0a1628,50:00b4d8,100:0a1628" alt="" />
 
 ## 📬 Kontak
 
