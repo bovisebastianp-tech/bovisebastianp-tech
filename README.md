@@ -1,118 +1,111 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,50:1d2b64,100:4361ee&height=250&section=header&text=GANDESBLOOD%20TIAN&fontSize=48&fontColor=e8f0ff&fontAlignY=40&desc=Frontend%20Developer%20%C2%B7%20Begadang%20Terus%20%C2%B7%20432%20taun&descAlignY=62&descColor=a5c8ff&animation=fadeIn" alt="header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7DD3FC&background=00000000&center=true&vCenter=true&width=720&lines=ngoding+UI+diem-diem+di+bawah+bulan+%F0%9F%8C%99;432+taun+dan+masih+push+code+%E2%9C%A8;pixel+rapi+%2B+dark+mode+di+mana-mana;jangan+ganggu+kalo+lagi+fokus" alt="typing"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/status-online%20pas%20malem-4361ee?style=for-the-badge&labelColor=0b1026" alt="status"/>
-<img src="https://img.shields.io/badge/fokus-frontend%20%26%20UI-4cc9f0?style=for-the-badge&labelColor=0b1026" alt="fokus"/>
-<img src="https://img.shields.io/badge/mood-santai%20tapi%20jangan%20macem2-7aa2ff?style=for-the-badge&labelColor=0b1026" alt="mood"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=bovisebastianp-tech&color=4361ee&style=for-the-badge&label=YANG+MAMPIR&labelColor=0b1026" alt="views"/>
-
-</div>
-
-<br/>
+<!-- ═══════════════════════════════════════════════
+     Profil GitHub · Gandesblood Tian
+     Tema: biru laut + malam · Frontend Developer
+     Taruh file ini di repo: bovisebastianp-tech/bovisebastianp-tech
+     ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
-✦ &nbsp; ˚ &nbsp; 🌙 &nbsp; ˚ &nbsp; ✦ &nbsp; ˚ &nbsp; ⋆ &nbsp; ˚ &nbsp; ✦
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a1628,45:0b4f7a,100:00b4d8&section=header&text=GANDESBLOOD%20TIAN&fontSize=50&fontColor=caf0f8&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Biru%20Laut%20di%20Tengah%20Malam&descSize=18&descColor=90e0ef&descAlignY=60&animation=fadeIn" alt="header" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=48CAE4&background=00000000&center=true&vCenter=true&width=720&lines=Merapikan+tampilan+satu+pixel+demi+satu+pixel;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Rapi%2C+responsif%2C+dan+enak+dipandang;Ngoding+sampai+subuh+%F0%9F%8C%99" alt="typing" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-online%20pas%20malem-00b4d8?style=for-the-badge&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/fokus-frontend%20%26%20UI-48cae4?style=for-the-badge&labelColor=0a1628" />
+<img src="https://img.shields.io/badge/mode-dark%20selalu-0077b6?style=for-the-badge&labelColor=0a1628" />
+
+<br/><br/>
+
+✦ ˚ 🌙 ˚ ✦ ˚ ⋆ ˚ ✦
 
 > *"Gue gak ada urusan sama pagi. Basa-basi juga skip aja.*
 > *Yang penting tampilan rapi dan responsif, abis itu ngilang sebelum subuh."* 🌌
 
+</div>
+
 <br/>
 
-## 🌙 Tentang Gue
+## 🌊 Tentang Gue
 
 ```yaml
-role: Frontend Developer
-umur: 20 (masih nambah terus)
-jam_aktif: 23.00 - 06.00
-lagi_ngapain: bikin UI yang rapi, responsif, dan enak dipandang
-suka: dark mode, animasi halus, komponen yang reusable
-kelemahan: matahari, pixel yang geser 1px
-kelebihan: sabar, teliti, mata tajam soal detail
+nama       : Gandesblood Tian
+peran      : Frontend Developer
+jam_aktif  : 23.00 – 06.00
+lagi_bikin : tampilan web yang rapi, responsif, dan enak dipandang
+suka       : dark mode, animasi halus, layout yang bersih
+kelemahan  : matahari, pixel yang geser 1px
+kelebihan  : sabar, teliti, mata tajam soal detail
 ```
 
 <br/>
 
-## ✨ Tech Stack
+## 🐚 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,git,github&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript" />
+
+</div>
+
+| Bahasa | Dipakai buat |
+| :----: | :----------- |
+| **HTML** | Struktur halaman yang rapi dan semantik |
+| **CSS** | Layout, warna, responsif, dan animasi |
+| **JavaScript** | Bikin halaman jadi interaktif |
+
+<br/>
+
+## 🚀 Proyek
+
+<div align="center">
+
+| 🌐 Proyek | 📝 Keterangan | 🛠️ Dibuat dengan |
+| :-------: | :------------ | :---------------: |
+| [**web-dakwah**](https://github.com/bovisebastianp-tech/web-dakwah) | Web tugas, tempat latihan bikin tampilan | `HTML` |
 
 </div>
 
 <br/>
 
-## 📊 Stats
+## 📊 Statistik
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&hide_border=true&bg_color=0b1026&title_color=4cc9f0&icon_color=7aa2ff&text_color=c9d6ff&ring_color=4361ee" width="48%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&hide_border=true&bg_color=0b1026&title_color=4cc9f0&text_color=c9d6ff" width="42%" alt="top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&hide_border=true&bg_color=0a1628&title_color=48cae4&icon_color=00b4d8&text_color=caf0f8&ring_color=0096c7" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&hide_border=true&bg_color=0a1628&title_color=48cae4&text_color=caf0f8" alt="top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=bovisebastianp-tech&hide_border=true&background=0b1026&stroke=1d2b64&ring=4cc9f0&fire=ffd166&currStreakLabel=a5c8ff&sideLabels=a5c8ff&dates=6b7fb8&currStreakNum=e8f0ff&sideNums=e8f0ff" width="90%" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=bovisebastianp-tech&hide_border=true&background=0a1628&stroke=0b4f7a&ring=48cae4&fire=00b4d8&currStreakLabel=90e0ef&sideLabels=90e0ef&dates=5a8fb0&currStreakNum=caf0f8&sideNums=caf0f8" alt="streak" />
 
 </div>
 
 <br/>
 
-## 🔭 Lagi Sibuk Apa
+## 🌌 Grafik Aktivitas
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">🌙<br/><b>Begadang Ngoding</b><br/><sub>commit paling rame lewat jam 11 malem</sub></td>
-<td align="center" width="33%">🎨<br/><b>Anak Frontend</b><br/><sub>UI, komponen, dan animasi</sub></td>
-<td align="center" width="33%">☕<br/><b>Modal Kopi</b><br/><sub>sama dark mode aja udah cukup</sub></td>
-</tr>
-</table>
 
-<sub><i>lencana achievement asli GitHub bisa dicek di <a href="https://github.com/bovisebastianp-tech?tab=achievements">halaman Achievements</a> 😉</i></sub>
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bovisebastianp-tech&bg_color=0a1628&color=90e0ef&line=00b4d8&point=caf0f8&area=true&area_color=0b4f7a&hide_border=true" alt="activity graph" />
 
-<br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bovisebastianp-tech&bg_color=0b1026&color=7aa2ff&line=4361ee&point=e8f0ff&area=true&area_color=1d2b64&hide_border=true" width="95%" alt="activity graph"/>
-</div>
-
-<br/>
-
-## 🏙️ Contribution Skyline (3D)
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/main/profile-3d-contrib/profile-night-view.svg"/>
-  <img src="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/main/profile-3d-contrib/profile-green-animate.svg" width="95%" alt="3D contribution"/>
-</picture>
-<br/>
-<sub><i>bukan grafik saham loh yaa 😹</i></sub>
 </div>
 
 <br/>
 
 ## 📬 Kontak
 
-<p align="left">
-<a href="https://discord.com/users/ISI_ID_DISCORD_KAMU"><img src="https://img.shields.io/badge/Discord-0b1026?style=for-the-badge&logo=discord&logoColor=7aa2ff" alt="Discord"/></a>
-<a href="https://instagram.com/ISI_USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-0b1026?style=for-the-badge&logo=instagram&logoColor=4cc9f0" alt="Instagram"/></a>
-<a href="https://x.com/ISI_USERNAME_KAMU"><img src="https://img.shields.io/badge/X-0b1026?style=for-the-badge&logo=x&logoColor=c9d6ff" alt="X"/></a>
-</p>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,50:1d2b64,100:0b1026&height=130&section=footer" alt="footer"/>
+
+<a href="https://github.com/bovisebastianp-tech"><img src="https://img.shields.io/badge/GitHub-bovisebastianp--tech-0a1628?style=for-the-badge&logo=github&logoColor=48cae4" /></a>
+
+<!-- Mau nambah Instagram / Discord / X? Hapus tanda komentar, lalu ganti USERNAME dengan punyamu:
+<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-0a1628?style=for-the-badge&logo=instagram&logoColor=48cae4" /></a>
+-->
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00b4d8,55:0b4f7a,100:0a1628&section=footer" alt="footer" />
+
 </div>
