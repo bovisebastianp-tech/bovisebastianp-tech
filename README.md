@@ -88,7 +88,11 @@ kelebihan  : sabar, teliti, mata tajam soal detail
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bovisebastianp-tech&bg_color=0a1628&color=90e0ef&line=00b4d8&point=caf0f8&area=true&area_color=0b4f7a&hide_border=true" alt="activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/output/github-snake.svg" />
+  <img alt="grafik kontribusi" src="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
