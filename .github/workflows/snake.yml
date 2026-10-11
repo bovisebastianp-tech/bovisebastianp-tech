@@ -1,0 +1,36 @@
+name: Generate Snake
+
+on:
+  # otomatis jalan tiap 12 jam
+  schedule:
+    - cron: "0 */12 * * *"
+  # bisa dijalankan manual dari tab Actions
+  workflow_dispatch:
+  # jalan juga tiap ada commit ke main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Buat animasi ular dari grafik kontribusi
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#0b4f7a&color_dots=#e0f4fb,#b3e3f2,#7ccbe8,#2ea6d4,#0b4f7a
+            dist/github-snake-dark.svg?color_snake=#caf0f8&color_dots=#12304d,#0b4f7a,#0077b6,#00b4d8,#90e0ef
+
+      - name: Simpan hasilnya ke branch "output"
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
