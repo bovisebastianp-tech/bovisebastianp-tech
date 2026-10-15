@@ -178,7 +178,7 @@ console.log(jamAktif ? "🌙 Gue lagi online." : "☀️ Zzz… jangan diganggu.
 
 <br/><br/>
 
-<sub>🌌 Fun fact: zona "tengah malam" di laut (sekitar 1.000–4.000 meter) gak pernah kena sinar matahari. Habitat yang cocok buat gue.</sub>
+<sub>🌌 Fun fact: zona "tengah malam" di laut itu paling indah untuk di lihat.</sub>
 
 <br/><br/>
 
