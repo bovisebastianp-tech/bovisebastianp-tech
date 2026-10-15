@@ -182,6 +182,6 @@ console.log(jamAktif ? "🌙 Gue lagi online." : "☀️ Zzz… jangan diganggu.
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00b4d8,55:0b4f7a,100:0a1628&section=footer&text=Sampai%20ketemu%20lagi%20di%20saat%20malam&fontSize=20&fontColor=caf0f8&fontAlignY=68" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00b4d8,55:0b4f7a,100:0a1628&section=footer&text=When%20Yah%20ke%20di%20laut%20malam-malam&fontSize=20&fontColor=caf0f8&fontAlignY=68" alt="footer" />
 
 </div>
