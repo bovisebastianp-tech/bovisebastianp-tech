@@ -1,13 +1,3 @@
-<!-- ═══════════════════════════════════════════════
-     Profil GitHub · Gandesblood Tian
-     Tema: biru laut + malam · Frontend Developer
-     Taruh file ini di repo: bovisebastianp-tech/bovisebastianp-tech
-
-     BORDER: setiap bagian dibingkai garis gradasi biru laut.
-     Mau ganti warna garis? Ubah kode warna di URL "capsule-render"
-     (0a1628 = malam, 0b4f7a = laut dalam, 00b4d8 = cyan)
-     ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a1628,45:0b4f7a,100:00b4d8&section=header&text=GANDESBLOOD%20TIAN&fontSize=50&fontColor=caf0f8&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Biru%20Laut%20di%20Tengah%20Malam&descSize=18&descColor=90e0ef&descAlignY=60&animation=fadeIn" alt="header" />
