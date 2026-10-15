@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/status-online%20pas%20malem-00b4d8?style=for-the-badge&labelColor=0a1628" />
 <img src="https://img.shields.io/badge/fokus-frontend%20%26%20UI-48cae4?style=for-the-badge&labelColor=0a1628" />
 <img src="https://img.shields.io/badge/mode-dark%20selalu-0077b6?style=for-the-badge&labelColor=0a1628" />
-<img src="https://komarev.com/ghpvc/?username=bovisebastianp-tech&label=PENGUNJUNG&color=0077b6&style=for-the-badge" />
 
 <br/><br/>
 
