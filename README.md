@@ -48,7 +48,7 @@ const gandesblood = {
 
 ```text
 JAM   00          06          12          18        23
-      ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
+      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████░░░░
 ```
 
 <div align="center">
@@ -103,7 +103,7 @@ JAM   00          06          12          18        23
 
 ```js
 const jam = new Date().getHours();
-const jamAktif = jam >= 20 || jam < 22;
+const jamAktif = jam >= 20 && jam < 22;
 
 console.log(jamAktif ? "🌙 Gue lagi online." : "☀️ Zzz… jangan diganggu.");
 ```
@@ -151,19 +151,13 @@ console.log(jamAktif ? "🌙 Gue lagi online." : "☀️ Zzz… jangan diganggu.
 
 <img src="ombak.svg" width="100%" alt="" />
 
-<h2 align="center">🌌 Grafik Aktivitas</h2>
+<h2 align="center">🧭 Jalur Selam</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bovisebastianp-tech&bg_color=0a1628&color=48cae4&line=00b4d8&point=caf0f8&area=true&area_color=0b4f7a&hide_border=true&title_color=48cae4&custom_title=Arus%20Kontribusi%20Tengah%20Malam" alt="grafik aktivitas" />
+<img src="jalur-selam.svg" width="100%" alt="Jalur belajar: HTML, CSS, JavaScript, UI/UX, lalu proyek berikutnya" />
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/output/github-snake.svg" />
-  <img alt="grafik kontribusi" src="https://raw.githubusercontent.com/bovisebastianp-tech/bovisebastianp-tech/output/github-snake-dark.svg" />
-</picture>
+<sub>Peta belajar gue: mulai dari dasar laut (HTML), naik ke desain, sambil nunggu proyek berikutnya muncul ke permukaan 🌊</sub>
 
 </div>
 
