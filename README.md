@@ -115,10 +115,11 @@ console.log(jamAktif ? "🌙 Gue lagi online." : "☀️ Zzz… jangan diganggu.
 
 <div align="center">
 
-<a href="https://github.com/bovisebastianp-tech/web-SIPENIL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bovisebastianp-tech&repo=web-SIPENIL&locale=id&hide_border=false&border_color=0b4f7a&bg_color=0a1628&title_color=48cae4&icon_color=00b4d8&text_color=caf0f8" alt="web-SIPENIL" /></a>
-<a href="https://github.com/bovisebastianp-tech/web-dakwah"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bovisebastianp-tech&repo=web-dakwah&locale=id&hide_border=false&border_color=0b4f7a&bg_color=0a1628&title_color=48cae4&icon_color=00b4d8&text_color=caf0f8" alt="web-dakwah" /></a>
+| 🌐 Proyek | 📝 Keterangan | 🛠️ Dibuat dengan |
+| :-------: | :------------ | :---------------: |
+| [**web-dakwah**](https://bovisebastianp-tech.github.io/web-dakwah/) | Web tugas, tempat latihan bikin tampilan | `HTML` |
+| [**web-SIPENIL**](https://bovisebastianp-tech.github.io/web-SIPENIL/) | Sistem Informasi Pengelolaan dan Kalkulasi Nilai Mahasiswa | `JavaScript` |
 
-<br/><br/>
 <sub>Proyek berikutnya masih di dasar laut, belum muncul ke permukaan 🌊</sub>
 
 </div>
