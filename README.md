@@ -34,7 +34,7 @@ const gandesblood = {
   kelemahan: ["Tugas numpuk", "pixel yang geser 1px"],
 
   sapa() {
-    return "Ssst… udah lewat tengah malam, ya?";
+    return "Ssst… udah malam apa udah tau, ya?";
   },
 };
 ```
@@ -140,10 +140,15 @@ console.log(jamAktif ? "🌙 Gue lagi online." : "☀️ Zzz… jangan diganggu.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bovisebastianp-tech&show_icons=true&locale=id&hide_border=false&border_color=0b4f7a&bg_color=0a1628&title_color=48cae4&icon_color=00b4d8&text_color=caf0f8&ring_color=0096c7" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovisebastianp-tech&layout=compact&locale=id&hide_border=false&border_color=0b4f7a&bg_color=0a1628&title_color=48cae4&text_color=caf0f8" alt="top languages" />
+<a href="https://github.com/bovisebastianp-tech?tab=followers"><img src="https://img.shields.io/github/followers/bovisebastianp-tech?label=pengikut&style=for-the-badge&color=0077b6&labelColor=0a1628&logo=github&logoColor=48cae4" alt="followers" /></a>
+<a href="https://github.com/bovisebastianp-tech/web-SIPENIL"><img src="https://img.shields.io/github/last-commit/bovisebastianp-tech/web-SIPENIL?label=commit%20terakhir&style=for-the-badge&color=00b4d8&labelColor=0a1628" alt="last commit" /></a>
 
 <br/>
+
+<a href="https://github.com/bovisebastianp-tech/web-SIPENIL"><img src="https://img.shields.io/github/languages/top/bovisebastianp-tech/web-SIPENIL?label=SIPENIL&style=for-the-badge&color=48cae4&labelColor=0a1628" alt="bahasa utama SIPENIL" /></a>
+<a href="https://github.com/bovisebastianp-tech/web-dakwah"><img src="https://img.shields.io/github/languages/top/bovisebastianp-tech/web-dakwah?label=web-dakwah&style=for-the-badge&color=0096c7&labelColor=0a1628" alt="bahasa utama web-dakwah" /></a>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=bovisebastianp-tech&hide_border=false&border=0b4f7a&background=0a1628&stroke=0b4f7a&ring=48cae4&fire=00b4d8&currStreakLabel=90e0ef&sideLabels=90e0ef&dates=5a8fb0&currStreakNum=caf0f8&sideNums=caf0f8" alt="streak" />
 
