@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Gandesblood Tian, Frontend Developer dan UI/UX Enthusiast. Malam hujan hitam putih dengan lampu jalan dan riak genangan." />
+<img src="assets/hero.gif" width="100%" alt="Gandesblood Tian, Frontend Developer dan UI/UX Enthusiast. Malam hujan hitam putih dengan lampu jalan dan riak genangan." />
 
 <p align="center">
   <a href="#tentang"><img src="assets/nav-tentang.svg" height="36" alt="01 Tentang" /></a>
@@ -14,7 +14,7 @@
 
 <a id="tentang"></a>
 <img src="assets/sec-tentang.svg" width="100%" alt="01 Tentang" />
-<img src="assets/tentang.svg" width="100%" alt="Mahasiswa Sistem Informasi yang tertarik pada frontend development dan desain UI/UX. Menyukai dark mode, animasi yang halus, serta detail dan kerapian layout. Kelemahan: pixel geser 1px, dan itu wajib dibenerin." />
+<img src="assets/tentang.gif" width="100%" alt="Mahasiswa Sistem Informasi yang tertarik pada frontend development dan desain UI/UX. Menyukai dark mode, animasi yang halus, serta detail dan kerapian layout. Kelemahan: pixel geser 1px, dan itu wajib dibenerin." />
 
 Mahasiswa Sistem Informasi yang tertarik pada **frontend development** dan **desain UI/UX**. Suka dark mode, animasi yang halus, dan layout yang rapi, dengan perhatian ke detail kecil (termasuk pixel yang geser 1px).
 
@@ -22,7 +22,7 @@ Mahasiswa Sistem Informasi yang tertarik pada **frontend development** dan **des
 
 <a id="keahlian"></a>
 <img src="assets/sec-keahlian.svg" width="100%" alt="02 Keahlian" />
-<img src="assets/keahlian.svg" width="100%" alt="Tech stack: HTML untuk struktur dan semantik halaman, CSS untuk layout, warna dan tampilan responsif, JavaScript untuk interaksi dan logika di browser, UI/UX Design untuk merancang tampilan dan alur pengguna." />
+<img src="assets/keahlian.gif" width="100%" alt="Tech stack: HTML untuk struktur dan semantik halaman, CSS untuk layout, warna dan tampilan responsif, JavaScript untuk interaksi dan logika di browser, UI/UX Design untuk merancang tampilan dan alur pengguna." />
 
 | Teknologi | Fungsi | Dipakai di |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ document.querySelectorAll(".hujan i").forEach((tetes) => {
 <a id="proyek"></a>
 <img src="assets/sec-proyek.svg" width="100%" alt="03 Proyek" />
 
-<img src="assets/proyek-dakwah.svg" width="100%" alt="Cahaya Dakwah (web-dakwah): prototipe web dakwah digital dengan lima halaman, yaitu Beranda, Kajian, Artikel, Donasi, dan Putar Kajian. Tujuan: latihan merancang situs multi-halaman yang bersih dan responsif. Teknologi: HTML, CSS, JavaScript." />
+<img src="assets/proyek-dakwah.gif" width="100%" alt="Cahaya Dakwah (web-dakwah): prototipe web dakwah digital dengan lima halaman, yaitu Beranda, Kajian, Artikel, Donasi, dan Putar Kajian. Tujuan: latihan merancang situs multi-halaman yang bersih dan responsif. Teknologi: HTML, CSS, JavaScript." />
 
 **Cahaya Dakwah** · [Live Demo](https://bovisebastianp-tech.github.io/web-dakwah/) · [Source Code](https://github.com/bovisebastianp-tech/web-dakwah)
 
@@ -93,7 +93,7 @@ document.querySelectorAll(".hujan i").forEach((tetes) => {
 
 </details>
 
-<img src="assets/proyek-sipenil.svg" width="100%" alt="SIPENIL (web-SIPENIL): Sistem Informasi Pengelolaan dan Kalkulasi Nilai Mahasiswa dengan peran admin, dosen, dan mahasiswa. Tujuan: mengelola nilai dan menghitung hasil studi mahasiswa Prodi Sistem Informasi. Teknologi: HTML, CSS, JavaScript." />
+<img src="assets/proyek-sipenil.gif" width="100%" alt="SIPENIL (web-SIPENIL): Sistem Informasi Pengelolaan dan Kalkulasi Nilai Mahasiswa dengan peran admin, dosen, dan mahasiswa. Tujuan: mengelola nilai dan menghitung hasil studi mahasiswa Prodi Sistem Informasi. Teknologi: HTML, CSS, JavaScript." />
 
 **SIPENIL** · [Live Demo](https://bovisebastianp-tech.github.io/web-SIPENIL/) · [Source Code](https://github.com/bovisebastianp-tech/web-SIPENIL)
 
@@ -106,19 +106,19 @@ document.querySelectorAll(".hujan i").forEach((tetes) => {
 
 </details>
 
-<img src="assets/proyek-berikutnya.svg" width="100%" alt="Proyek berikutnya. Masih jadi bibit, belum tumbuh ke permukaan. Segera." />
+<img src="assets/proyek-berikutnya.gif" width="100%" alt="Proyek berikutnya. Masih jadi bibit, belum tumbuh ke permukaan. Segera." />
 
 <br/>
 
 <a id="perjalanan"></a>
 <img src="assets/sec-perjalanan.svg" width="100%" alt="04 Perjalanan belajar" />
-<img src="assets/jalur-belajar.svg" width="100%" alt="Perjalanan belajar: HTML, CSS, JavaScript, UI/UX, lalu proyek yang lebih kompleks yang belum sampai." />
+<img src="assets/jalur-belajar.gif" width="100%" alt="Perjalanan belajar: HTML, CSS, JavaScript, UI/UX, lalu proyek yang lebih kompleks yang belum sampai." />
 
 <br/>
 
 <a id="prinsip"></a>
 <img src="assets/sec-prinsip.svg" width="100%" alt="05 Prinsip kerja" />
-<img src="assets/prinsip.svg" width="100%" alt="Prinsip kerja: pixel geser 1px wajib dibenerin, dark mode itu kebutuhan, animasi harus halus bukan bikin pusing, layout bersih lebih penting dari basa-basi. Bangun pagi: belum, dan gak akan." />
+<img src="assets/prinsip.gif" width="100%" alt="Prinsip kerja: pixel geser 1px wajib dibenerin, dark mode itu kebutuhan, animasi harus halus bukan bikin pusing, layout bersih lebih penting dari basa-basi. Bangun pagi: belum, dan gak akan." />
 
 <br/>
 
@@ -141,10 +141,10 @@ document.querySelectorAll(".hujan i").forEach((tetes) => {
 
 <a id="kontak"></a>
 <img src="assets/sec-kontak.svg" width="100%" alt="07 Kontak" />
-<a href="https://github.com/bovisebastianp-tech"><img src="assets/kontak.svg" width="100%" alt="Kunjungi github.com/bovisebastianp-tech." /></a>
+<a href="https://github.com/bovisebastianp-tech"><img src="assets/kontak.gif" width="100%" alt="Kunjungi github.com/bovisebastianp-tech." /></a>
 
 GitHub: [github.com/bovisebastianp-tech](https://github.com/bovisebastianp-tech)
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Ngoding? Desain ajah. Hujan di luar itu paling adem dan tenang." />
+<img src="assets/footer.gif" width="100%" alt="Ngoding? Desain ajah. Hujan di luar itu paling adem dan tenang." />

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 42" width="172" height="42" role="img" aria-label="Menu: Perjalanan"><defs></defs><style>
+text{font-family:'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif}
+.s{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif}
+.m{font-family:ui-monospace,'SF Mono','Cascadia Mono',Consolas,'DejaVu Sans Mono',monospace}
+@keyframes fall{from{transform:translate(0,-90px)}to{transform:translate(-26px,var(--h))}}
+@keyframes rip{0%{transform:scale(.15);opacity:.9}100%{transform:scale(1);opacity:0}}
+@keyframes glow{0%,100%{opacity:.85}50%{opacity:1}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+.rp{transform-box:fill-box;transform-origin:center;animation:rip 3s ease-out infinite both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x=".5" y=".5" width="171" height="41" fill="#0A0A0B" stroke="#34343A"/><text class="m" x="16" y="27" font-size="13" fill="#8A8A90">04</text><text x="44" y="27.5" font-size="17" font-weight="600" fill="#F4F4F2">Perjalanan</text></svg>
